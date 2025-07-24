@@ -1,6 +1,7 @@
 ## Demo
 
-![Demo](Adobe Express - Recording 2025-07-25 011636.gif)
+![Demo](![nicsan.gif…]()
+.gif)
 
 # Health Cover App (React + Express + MongoDB)
 
