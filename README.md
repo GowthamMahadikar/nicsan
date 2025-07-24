@@ -1,7 +1,7 @@
 ## Screenshot
 
 ![Project Screenshot](11.png)
-
+![Project Screenshot](22.png)
 # Health Cover App (React + Express + MongoDB)
 
 ## Quick start
