@@ -1,6 +1,6 @@
-## Demo
+## Screenshot
 
-![Demo](nicsan.gif)
+![Project Screenshot](11.png)
 
 # Health Cover App (React + Express + MongoDB)
 
