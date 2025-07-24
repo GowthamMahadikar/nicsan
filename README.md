@@ -1,7 +1,6 @@
 ## Demo
 
-![Demo](![nicsan.gif…]()
-.gif)
+![Demo](!nicsan.gif)
 
 # Health Cover App (React + Express + MongoDB)
 
